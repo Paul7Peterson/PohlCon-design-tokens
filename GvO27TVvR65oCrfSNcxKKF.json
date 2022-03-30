@@ -2767,6 +2767,11 @@
         "value": "underline",
         "type": "textDecoration"
       }
+    },
+    "Small-M": {
+      "value": "12",
+      "type": "sizing",
+      "description": "Base value for Small screens. 1rem"
     }
   }
 }
