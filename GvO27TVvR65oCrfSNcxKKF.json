@@ -2914,10 +2914,6 @@
         "type": "spacing",
         "description": "9 rem"
       }
-    },
-    "test": {
-      "value": "12",
-      "type": "spacing"
     }
   },
   "button-small-padding": {
