@@ -2768,10 +2768,46 @@
         "type": "textDecoration"
       }
     },
-    "Small-M": {
+    "small-M-base": {
       "value": "12",
-      "type": "sizing",
-      "description": "Base value for Small screens. 1rem"
+      "type": "spacing",
+      "description": "Base value for Small pattern. 1rem."
+    },
+    "small-S": {
+      "value": "{small-M-base}*0.75",
+      "type": "spacing"
+    },
+    "small-XS": {
+      "value": "{small-M-base}*0.5",
+      "type": "spacing"
+    },
+    "small-2XS": {
+      "value": "{small-M-base}*0.25",
+      "type": "spacing"
+    },
+    "small-L": {
+      "value": "{small-M-base}*1.5",
+      "type": "spacing"
+    },
+    "small-XL": {
+      "value": "{small-M-base}*2.25",
+      "type": "spacing"
+    },
+    "small-2XL": {
+      "value": "{small-M-base}*3",
+      "type": "spacing"
+    },
+    "small-3XL": {
+      "value": "{small-M-base}*4.5",
+      "type": "spacing"
+    },
+    "small-4XL": {
+      "value": "{small-M-base}*6",
+      "type": "spacing"
+    },
+    "small-5XL": {
+      "value": "{small-M-base}*9",
+      "type": "spacing"
     }
   }
 }
