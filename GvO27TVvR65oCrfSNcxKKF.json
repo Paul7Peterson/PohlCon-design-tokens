@@ -2914,6 +2914,18 @@
         "type": "spacing",
         "description": "9 rem"
       }
+    },
+    "Gradient": {
+      "Metal 1": {
+        "value": "linear-gradient(211deg, #d7d7d7 0%, #dedede 40.84%, #c2c2c2 100%)",
+        "type": "color",
+        "description": "Top left to bottom right"
+      },
+      "Metal 2": {
+        "value": "linear-gradient(155deg, #d7d7d7 0%, #dedede 61.98%, #c2c2c2 100%)",
+        "type": "color",
+        "description": "Bottom right to top left"
+      }
     }
   },
   "jordahl": {},
