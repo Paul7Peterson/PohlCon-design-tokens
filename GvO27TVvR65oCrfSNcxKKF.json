@@ -2916,26 +2916,7 @@
       }
     }
   },
-  "button-small-padding": {
-    "top-padding": {
-      "value": "{small.S}",
-      "type": "spacing"
-    },
-    "bottom-padding": {
-      "value": "{small.S}",
-      "type": "spacing"
-    },
-    "right-padding": {
-      "value": "{small.L}",
-      "type": "spacing"
-    },
-    "left-padding": {
-      "value": "{small.L}",
-      "type": "spacing"
-    },
-    "test all sides": {
-      "value": "12",
-      "type": "spacing"
-    }
-  }
+  "jordahl": {},
+  "puk": {},
+  "hbau": {}
 }
