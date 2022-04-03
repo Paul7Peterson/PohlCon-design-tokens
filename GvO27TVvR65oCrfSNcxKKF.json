@@ -22,9 +22,19 @@
         "value": "#c7c7c7",
         "type": "color"
       },
+      "85": {
+        "value": "#d6d6d6",
+        "type": "color",
+        "description": "test"
+      },
       "90": {
         "value": "#e3e3e3",
         "type": "color"
+      },
+      "95": {
+        "value": "#f0f0f0",
+        "type": "color",
+        "description": "test"
       },
       "98": {
         "value": "#fafafa",
