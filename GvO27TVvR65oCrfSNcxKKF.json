@@ -2922,6 +2922,32 @@
       }
     }
   },
+  "pohlcon-light": {
+    "pohlcon-light": {
+      "bg": {
+        "canvas": {
+          "value": "{Grey.90}",
+          "type": "color"
+        },
+        "toolbar": {
+          "value": "{Gradient.Metal-2}",
+          "type": "color"
+        },
+        "toolbar-muted": {
+          "value": "{Grey.80}",
+          "type": "color"
+        },
+        "surface": {
+          "value": "{Grey.98}",
+          "type": "color"
+        },
+        "surface-muted": {
+          "value": "{Grey.95}",
+          "type": "color"
+        }
+      }
+    }
+  },
   "jordahl": {},
   "puk": {},
   "hbau": {}
