@@ -2906,7 +2906,7 @@
       }
     },
     "Gradient": {
-      "1": {
+      "Fog-1": {
         "value": "linear-gradient(90deg, #ffffff00 0%, #ffffffc7 55.21%, #ffffff 100%)",
         "type": "color"
       },
