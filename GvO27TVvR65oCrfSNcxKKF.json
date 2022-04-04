@@ -2980,6 +2980,14 @@
         "disabled": {
           "value": "{Grey.70}",
           "type": "color"
+        },
+        "on-accent": {
+          "value": "{Lila.90}",
+          "type": "color"
+        },
+        "details": {
+          "value": "{Grey.80}",
+          "type": "color"
         }
       }
     }
