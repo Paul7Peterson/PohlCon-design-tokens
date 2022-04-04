@@ -2906,19 +2906,21 @@
       }
     },
     "Gradient": {
-      "Fog-1": {
-        "value": "linear-gradient(90deg, #ffffff00 0%, #ffffffc7 55.21%, #ffffff 100%)",
-        "type": "color"
-      },
       "Metal-1": {
         "value": "linear-gradient(211deg, #d7d7d7 0%, #dedede 40.84%, #c2c2c2 100%)",
-        "type": "color",
-        "description": "Top left to bottom right"
+        "type": "color"
       },
       "Metal-2": {
         "value": "linear-gradient(155deg, #d7d7d7 0%, #dedede 61.98%, #c2c2c2 100%)",
-        "type": "color",
-        "description": "Bottom right to top left"
+        "type": "color"
+      },
+      "Fog": {
+        "value": "linear-gradient(90deg, #ffffff00 0%, #ffffffc7 55.21%, #ffffff 100%)",
+        "type": "color"
+      },
+      "Glass": {
+        "value": "#ffffffa6",
+        "type": "color"
       }
     }
   },
@@ -2943,6 +2945,40 @@
         },
         "surface-muted": {
           "value": "{Grey.95}",
+          "type": "color"
+        },
+        "dialog": {
+          "value": "{Gradient.Glass}",
+          "type": "color"
+        },
+        "accent": {
+          "value": "{Lila.28}",
+          "type": "color"
+        },
+        "input-1": {
+          "value": "{Grey.90}",
+          "type": "color"
+        },
+        "input-2": {
+          "value": "{Grey.85}",
+          "type": "color"
+        }
+      },
+      "fg": {
+        "accent": {
+          "value": "{Lila.28}",
+          "type": "color"
+        },
+        "default": {
+          "value": "{Grey.40}",
+          "type": "color"
+        },
+        "muted": {
+          "value": "{Grey.55}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{Grey.70}",
           "type": "color"
         }
       }
