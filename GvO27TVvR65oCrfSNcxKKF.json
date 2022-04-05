@@ -2988,6 +2988,32 @@
         "details": {
           "value": "{Grey.80}",
           "type": "color"
+        },
+        "focus": {
+          "value": "{Azure.45}",
+          "type": "color"
+        }
+      },
+      "cta": {
+        "default": {
+          "value": "{Grape.86}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{Grape.90}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{Grey.85}",
+          "type": "color"
+        },
+        "label": {
+          "value": "{Grey.25}",
+          "type": "color"
+        },
+        "label-disabled": {
+          "value": "{Grey.70}",
+          "type": "color"
         }
       }
     }
