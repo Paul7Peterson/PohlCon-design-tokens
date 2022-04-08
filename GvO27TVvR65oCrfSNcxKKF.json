@@ -2762,17 +2762,17 @@
     },
     "small": {
       "2XS": {
-        "value": "{small.M-base}*0.25",
+        "value": "{small.M-base}*{Gutter.2XS}",
         "type": "spacing",
         "description": "0.25 rem"
       },
       "XS": {
-        "value": "{small.M-base}*0.5",
+        "value": "{small.M-base}*{Gutter.XS}",
         "type": "spacing",
         "description": "0.5 rem"
       },
       "S": {
-        "value": "{small.M-base}*0.75",
+        "value": "{small.M-base}*{Gutter.S}",
         "type": "spacing",
         "description": "0.75 rem"
       },
@@ -2782,47 +2782,47 @@
         "description": "Base value for Small pattern. 1 rem"
       },
       "L": {
-        "value": "{small.M-base}*1.5",
+        "value": "{small.M-base}*{Gutter.L}",
         "type": "spacing",
         "description": "1.5 rem"
       },
       "XL": {
-        "value": "{small.M-base}*2.25",
+        "value": "{small.M-base}*{Gutter.XL}",
         "type": "spacing",
         "description": "2.25 rem"
       },
       "2XL": {
-        "value": "{small.M-base}*3",
+        "value": "{small.M-base}*{Gutter.2XL}",
         "type": "spacing",
         "description": "3 rem"
       },
       "3XL": {
-        "value": "{small.M-base}*4.5",
+        "value": "{small.M-base}*{Gutter.3XL}",
         "type": "spacing",
         "description": "4.5 rem"
       },
       "4XL": {
-        "value": "{small.M-base}*6",
+        "value": "{small.M-base}*{Gutter.4XL}",
         "type": "spacing",
         "description": "6 rem"
       },
       "5XL": {
-        "value": "{small.M-base}*9",
+        "value": "{small.M-base}*{Gutter.5XL}",
         "type": "spacing",
         "description": "9 rem"
       }
     },
     "medium": {
       "2XS": {
-        "value": "{medium.M-base}*0.25",
+        "value": "{medium.M-base}*{Gutter.2XS}",
         "type": "spacing"
       },
       "XS": {
-        "value": "{medium.M-base}*0.5",
+        "value": "{medium.M-base}*{Gutter.XS}",
         "type": "spacing"
       },
       "S": {
-        "value": "{medium.M-base}*0.75",
+        "value": "{medium.M-base}*{Gutter.S}",
         "type": "spacing"
       },
       "M-base": {
@@ -2831,43 +2831,43 @@
         "description": "Base value for the Medium pattern. 1rem."
       },
       "L": {
-        "value": "{medium.M-base}*1.5",
+        "value": "{medium.M-base}*{Gutter.L}",
         "type": "spacing"
       },
       "XL": {
-        "value": "{medium.M-base}*2.25",
+        "value": "{medium.M-base}*{Gutter.XL}",
         "type": "spacing"
       },
       "2XL": {
-        "value": "{medium.M-base}*3",
+        "value": "{medium.M-base}*{Gutter.2XL}",
         "type": "spacing"
       },
       "3XL": {
-        "value": "{medium.M-base}*4.5",
+        "value": "{medium.M-base}*{Gutter.3XL}",
         "type": "spacing"
       },
       "4XL": {
-        "value": "{medium.M-base}*6",
+        "value": "{medium.M-base}*{Gutter.4XL}",
         "type": "spacing"
       },
       "5XL": {
-        "value": "{medium.M-base}*9",
+        "value": "{medium.M-base}*{Gutter.5XL}",
         "type": "spacing"
       }
     },
     "big": {
       "2XS": {
-        "value": "{big.M-base}*0.25",
+        "value": "{big.M-base}*{Gutter.2XS}",
         "type": "spacing",
         "description": "0.25 rem"
       },
       "XS": {
-        "value": "{big.M-base}*0.5",
+        "value": "{big.M-base}*{Gutter.XS}",
         "type": "spacing",
         "description": "0.5 rem"
       },
       "S": {
-        "value": "{big.M-base}*0.75",
+        "value": "{big.M-base}*{Gutter.S}",
         "type": "spacing",
         "description": "0.75 rem"
       },
@@ -2877,32 +2877,32 @@
         "description": "Base value for Big pattern. 1rem."
       },
       "L": {
-        "value": "{big.M-base}*1.5",
+        "value": "{big.M-base}*{Gutter.L}",
         "type": "spacing",
         "description": "1.5 rem"
       },
       "XL": {
-        "value": "{big.M-base}*2.25",
+        "value": "{big.M-base}*{Gutter.XL}",
         "type": "spacing",
         "description": "2.25 rem"
       },
       "2XL": {
-        "value": "{big.M-base}*3",
+        "value": "{big.M-base}*{Gutter.2XL}",
         "type": "spacing",
         "description": "3 rem"
       },
       "3XL": {
-        "value": "{big.M-base}*4.5",
+        "value": "{big.M-base}*{Gutter.3XL}",
         "type": "spacing",
         "description": "4.5 rem"
       },
       "4XL": {
-        "value": "{big.M-base}*6",
+        "value": "{big.M-base}*{Gutter.4XL}",
         "type": "spacing",
         "description": "6 rem"
       },
       "5XL": {
-        "value": "{big.M-base}*9",
+        "value": "{big.M-base}*{Gutter.5XL}",
         "type": "spacing",
         "description": "9 rem"
       }
@@ -2923,6 +2923,48 @@
       "Glass": {
         "value": "#ffffffa6",
         "type": "color"
+      }
+    },
+    "Gutter": {
+      "2XS": {
+        "value": "0.25",
+        "type": "other"
+      },
+      "XS": {
+        "value": "0.5",
+        "type": "other"
+      },
+      "S": {
+        "value": "0.75",
+        "type": "other"
+      },
+      "M": {
+        "value": "1",
+        "type": "other"
+      },
+      "L": {
+        "value": "1.5",
+        "type": "other"
+      },
+      "XL": {
+        "value": "2.25",
+        "type": "other"
+      },
+      "2XL": {
+        "value": "3",
+        "type": "other"
+      },
+      "3XL": {
+        "value": "4.5",
+        "type": "other"
+      },
+      "4XL": {
+        "value": "6",
+        "type": "other"
+      },
+      "5XL": {
+        "value": "9",
+        "type": "other"
       }
     }
   },
