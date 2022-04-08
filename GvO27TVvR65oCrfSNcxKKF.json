@@ -165,7 +165,8 @@
     "Green": {
       "50": {
         "value": "#2a892f",
-        "type": "color"
+        "type": "color",
+        "description": "Success status color"
       },
       "75": {
         "value": "#63cf63",
@@ -198,12 +199,13 @@
     "Ochre": {
       "70": {
         "value": "#bfab18",
-        "type": "color"
+        "type": "color",
+        "description": "Warning status color"
       },
       "80": {
         "value": "#dec81b",
         "type": "color",
-        "description": "Warning status color"
+        "description": "Description"
       },
       "85": {
         "value": "#e9d649",
