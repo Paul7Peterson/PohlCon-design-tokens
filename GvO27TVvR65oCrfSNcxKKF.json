@@ -2962,10 +2962,6 @@
         "input-2": {
           "value": "{Grey.85}",
           "type": "color"
-        },
-        "selection": {
-          "value": "{Grey.90}",
-          "type": "color"
         }
       },
       "fg": {
@@ -3011,6 +3007,10 @@
         },
         "warning": {
           "value": "{Ochre.70}",
+          "type": "color"
+        },
+        "selection": {
+          "value": "{Grey.90}",
           "type": "color"
         }
       },
