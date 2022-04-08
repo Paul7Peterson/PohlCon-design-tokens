@@ -2951,7 +2951,7 @@
           "value": "{Gradient.Glass}",
           "type": "color"
         },
-        "accent": {
+        "appbar": {
           "value": "{Lila.28}",
           "type": "color"
         },
@@ -2962,10 +2962,14 @@
         "input-2": {
           "value": "{Grey.85}",
           "type": "color"
+        },
+        "selection": {
+          "value": "{Grey.90}",
+          "type": "color"
         }
       },
       "fg": {
-        "accent": {
+        "activated": {
           "value": "{Lila.28}",
           "type": "color"
         },
@@ -2981,7 +2985,7 @@
           "value": "{Grey.70}",
           "type": "color"
         },
-        "on-accent": {
+        "on-lila": {
           "value": "{Lila.90}",
           "type": "color"
         },
@@ -2991,6 +2995,22 @@
         },
         "focus": {
           "value": "{Azure.45}",
+          "type": "color"
+        },
+        "error": {
+          "value": "{Red.50}",
+          "type": "color"
+        },
+        "info": {
+          "value": "{Blue.45}",
+          "type": "color"
+        },
+        "valid": {
+          "value": "{Green.50}",
+          "type": "color"
+        },
+        "warning": {
+          "value": "{Ochre.70}",
           "type": "color"
         }
       },
