@@ -2924,7 +2924,7 @@
       }
     }
   },
-  "pohlcon-light": {
+  "semantic": {
     "pohlcon-light": {
       "bg": {
         "canvas": {
@@ -3036,10 +3036,49 @@
           "type": "color"
         }
       }
+    },
+    "jordahl-light": {
+      "bg": {
+        "appbar": {
+          "value": "{Cobalt.30}",
+          "type": "color"
+        }
+      },
+      "fg": {
+        "activated": {
+          "value": "{Cobalt.30}",
+          "type": "color"
+        }
+      }
+    },
+    "puk-light": {
+      "bg": {
+        "appbar": {
+          "value": "{Cerulean.45}",
+          "type": "color"
+        }
+      },
+      "fg": {
+        "activated": {
+          "value": "{Cerulean.45}",
+          "type": "color"
+        }
+      }
+    },
+    "hbau-light": {
+      "bg": {
+        "appbar": {
+          "value": "{Turquoise.50}",
+          "type": "color"
+        }
+      },
+      "fg": {
+        "activated": {
+          "value": "{Turquoise.50}",
+          "type": "color"
+        }
+      }
     }
   },
-  "jordahl": {},
-  "puk": {},
-  "hbau": {},
   "button": {}
 }
