@@ -3124,5 +3124,18 @@
       }
     }
   },
-  "button": {}
+  "button": {
+    "small": {
+      "padding": {
+        "vertical": {
+          "value": "{small.XS}",
+          "type": "spacing"
+        },
+        "horizontal": {
+          "value": "{small.L}",
+          "type": "spacing"
+        }
+      }
+    }
+  }
 }
